@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "STEREOTYPE",
+  "base_artist": "STAYC",
+  "createdAt": "2025-12-27T08:31:20.316556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Atypical Stereotype",
+      "artist": "Dälek",
+      "has_synced": true,
+      "path": "select/01_Atypical_Stereotype_Dälek.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stereotype",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/02_Stereotype_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stereotype",
+      "artist": "Powerman 5000",
+      "has_synced": false,
+      "path": "select/03_Stereotype_Powerman_5000.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stereotype",
+      "artist": "Allame",
+      "has_synced": true,
+      "path": "select/04_Stereotype_Allame.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stereotype (Klip Version)",
+      "artist": "Allame",
+      "has_synced": true,
+      "path": "select/05_Stereotype_(Klip_Version)_Allame.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STEREOTYPE",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/06_STEREOTYPE_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stereotype",
+      "artist": "The Specials",
+      "has_synced": false,
+      "path": "select/07_Stereotype_The_Specials.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stereotype",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/08_Stereotype_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stereotype",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/09_Stereotype_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stereotype",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/10_Stereotype_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Stereotype",
+      "artist": "Inspectah Deck",
+      "has_synced": false,
+      "path": "select/11_The_Stereotype_Inspectah_Deck.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stereotype (Japanese Version)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/12_Stereotype_(Japanese_Version)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stereotype -Japanese Version- (Japanese Version)",
+      "artist": "StayC",
+      "has_synced": true,
+      "path": "select/13_Stereotype_-Japanese_Version-_(Japanese_Version)_StayC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stereotype (Japanese ver.)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/14_Stereotype_(Japanese_ver.)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "stereotype",
+      "artist": "Heretic Soul",
+      "has_synced": false,
+      "path": "select/15_stereotype_Heretic_Soul.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STEREOTYPE",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_STEREOTYPE_STAYC.txt"
+    }
+  ]
+}
